@@ -13,15 +13,15 @@ This tool is used to install `rbenv` and some plugins.
 
 Install [rbenv] and friends by running:
 
-    curl https://raw.githubusercontent.com/fesplugas/rbenv-installer/master/bin/rbenv-installer | bash
+    curl https://raw.githubusercontent.com/kirs/rbenv-installer/master/bin/rbenv-installer | bash
 
 
 ## Installing a Ruby
 
 Install latest stable Ruby and make it global:
 
-    rbenv install 2.1.4
-    rbenv global 2.1.4
+    rbenv install 2.3.1
+    rbenv global 2.3.1
 
 
 ## Updating
